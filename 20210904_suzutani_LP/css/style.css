@@ -86,6 +86,7 @@ header {
 }
 
 .news {
+  width: 100%;
   display: flex;
   margin: 30px 0;
 }
@@ -408,6 +409,7 @@ header {
 }
 
 .recruit .inner {
+  width: 100%;
 }
 
 .recruit-content {
@@ -416,6 +418,7 @@ header {
 
 .recruit-content-item1 {
   position: relative;
+  flex: 1;
 }
 
 .recruit-content-item1 img {
@@ -433,6 +436,7 @@ header {
 
 .recruit-content-item2 {
   position: relative;
+  flex: 1;
 }
 
 .recruit-content-item2 img {
